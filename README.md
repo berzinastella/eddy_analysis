@@ -1,4 +1,4 @@
-# eddy_analysis
+# Eddy analysis
 Examples of how to run eddy identification and visualisation with py-eddy-tracker on model data. If you have questions or suggestions, get in touch at stella.berzina@usys.ethz.ch
 
 ICON EERIE runs used in the examples.
@@ -6,9 +6,9 @@ ICON EERIE runs used in the examples.
 These are my personal notebooks to show some examples, I'll try to upload the nice final notebooks on the EERIE github.
 
 ## Structure
-#### Step 1: To identify and track eddies look at the eddy_identification_paralelised_share notebook
+**Step 1:** To identify and track eddies look at the eddy_identification_paralelised_share notebook
 
-#### Step 2: If you have already identified and teaked eddies, visualisation is done in eddy_viz_share notebook
+**Step 2:** If you have already identified and teaked eddies, visualisation is done in eddy_viz_share notebook. This also contains figures about how eddies are looking in ICON run.
 
 ## About the py-eddy-tracke environment
 
