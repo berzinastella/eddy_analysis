@@ -1,7 +1,7 @@
 # eddy_analysis
 Examples of how to run eddy identification and visualisation with py-eddy-tracker on model data. 
 
-ICON eerie runs used in the examples.
+ICON EERIE runs used in the examples.
 
 These are my personal notebooks to show some examples, I'll try to upload the nice final notebooks on the EERIE github.
 
@@ -21,7 +21,6 @@ pip install netcdf4==1.5.8 #might be overwritten later
 pip install matplotlib==3.7.1 #REALLY IMPORTANT
 pip install scipy opencv-python pyyaml pint polygon3
 pip install pyEddyTracker
-
 ```
 
 Then you create a kernel for it
@@ -30,8 +29,6 @@ Then you create a kernel for it
 source activate py39
 pip install ipykernel
 python -m ipykernel install --user --name py39 --display-name "py39"
-
-
 ```
 
 
