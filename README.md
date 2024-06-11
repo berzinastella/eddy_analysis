@@ -21,7 +21,6 @@ pip install netcdf4==1.5.8 #might be overwritten later
 pip install matplotlib==3.7.1 #REALLY IMPORTANT
 pip install scipy opencv-python pyyaml pint polygon3
 pip install pyEddyTracker
-![image](https://github.com/berzinastella/eddy_analysis/assets/75606575/af93316b-180b-40a1-9b73-06d59edf3715)
 
 ```
 
@@ -31,7 +30,7 @@ Then you create a kernel for it
 source activate py39
 pip install ipykernel
 python -m ipykernel install --user --name py39 --display-name "py39"
-![image](https://github.com/berzinastella/eddy_analysis/assets/75606575/1961c8dd-e449-4301-9d7c-e298dbd730b7)
+
 
 ```
 
@@ -44,9 +43,7 @@ For this you also need to install stuff for intake to work, so I do
 pip install intake
 pip install aiohttp
 pip install intake-xarray
-pip install intake-esm![image](https://github.com/berzinastella/eddy_analysis/assets/75606575/848fd4df-92f2-478a-8aef-d7d4793a857f)
-
-
+pip install intake-esm
 ```
 
 
