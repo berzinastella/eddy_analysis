@@ -6,8 +6,10 @@ ICON EERIE runs used in the examples.
 These are my personal notebooks to show some examples, I'll try to upload the nice final notebooks on the EERIE github.
 
 ## Structure
+#### Step 1 
 To identify and track eddies look at the eddy_identification_paralelised_share notebook.
 
+#### Step 2
 If you have already identified and teaked eddies, visualisation is done in eddy_viz_share
 
 ## About the py-eddy-tracke environment
