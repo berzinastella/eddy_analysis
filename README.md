@@ -19,8 +19,8 @@ What worked for me to create a working environment on levante server:
 ```
 conda create -n py39 python=3.9.1
 conda activate py39
-pip install numpy==1.22.4 #might be overwritten later
-pip install netcdf4==1.5.8 #might be overwritten later
+pip install numpy==1.26.4
+pip install netcdf4==1.6.5
 pip install matplotlib==3.7.1 #REALLY IMPORTANT
 pip install scipy opencv-python pyyaml pint polygon3
 pip install pyEddyTracker
