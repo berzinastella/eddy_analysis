@@ -1,5 +1,5 @@
 # eddy_analysis
-Examples of how to run eddy identification and visualisation with py-eddy-tracker on model data. 
+Examples of how to run eddy identification and visualisation with py-eddy-tracker on model data. If you have questions or suggestions, get in touch at stella.berzina@usys.ethz.ch
 
 ICON EERIE runs used in the examples.
 
